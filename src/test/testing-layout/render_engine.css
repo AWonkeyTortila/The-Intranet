@@ -1,0 +1,18 @@
+h1 {
+    font-family: Arial;
+    font-size: 32px;
+}
+
+p {
+    font-family: Arial;
+}
+
+a {
+    font-family: Arial;
+    color: black;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }

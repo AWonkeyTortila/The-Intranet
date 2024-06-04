@@ -1,0 +1,100 @@
+/* Ported from the old Intranet project == Original date of file (N/A) */
+/* Wonkey at Tue, Jun 4th at 12:46AM */
+
+html {
+    background-color: #2680ba;
+}
+
+h1 {
+    font-family: Arial;
+    color: black;
+}
+
+h2 {
+    font-family: Arial;
+    color: black; 
+}
+
+h3 {
+    font-family: Arial;
+    color: black;
+}
+
+p {
+    font-family: Arial;
+    color: black;
+}
+
+a {
+    font-family: Arial;
+    color: blue;
+    font-size: 16px;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+table {
+    border: 2px solid white;
+    color: white;
+}
+
+button {
+    background-color: black;
+    font-family: Arial;
+    color: blue;
+    font-size: 16px;
+    border: 2px solid white;
+}
+
+.announcement-box {
+    background-color: lightskyblue;
+    padding: 5px;
+    color: black;
+}
+
+.an {
+    font-family: Arial;
+    color: rgb(13, 102, 191);
+    font-size: 16px;
+}
+
+.internet {
+    color: red;
+}
+
+.notimpld { /* Not implimented */
+    color: red;
+}
+
+.construction {
+    color: rgb(148, 148, 10);   /* For both light & Dark mode */
+}
+
+.english {
+    color: rgb(52, 119, 131);
+    font-family: monospace;
+}
+
+.spanish {
+    color: #e45a61;
+    font-family: monospace;
+}
+
+.french {
+    color: rgb(42, 30, 147);
+    font-family: monospace;
+}
+
+.ann {
+    font-family: Arial;
+    color: blue;
+    font-size: 16px;
+}
+
+.grey {
+    font-family: Arial;
+    color: #9c9c9c
+}
