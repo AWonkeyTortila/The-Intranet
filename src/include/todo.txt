@@ -1,0 +1,7 @@
+SUPPORT:
+- Windows 8/8.1 for Intranet Project.
+- Add links to AbandonWare (games, software, etc).
+
+WONKHARDWRAE:
+- Windows 9X, 2000 et cetera hardware.
+
