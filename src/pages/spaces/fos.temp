@@ -1,0 +1,11 @@
+// File Orginnization System
+// .Temporary
+
+
+/SPACES/ ->
+
+..abscractions page..
+/John/  ->  /main.html/, /main.css/, /media/
+                                        ->      images, videos, etc
+/Jane/
+/etc/

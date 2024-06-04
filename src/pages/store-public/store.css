@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+a {
+    font-family: Arial;
+    color: blue;
+    font-size: 16px;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.back {
+    background-color: rgb(183, 183, 183);
+    width: 80%;
+    margin: auto;
+}
